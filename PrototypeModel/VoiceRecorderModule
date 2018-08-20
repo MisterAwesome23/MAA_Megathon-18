@@ -1,1 +1,22 @@
+Uses ISD1820 chipset :
 
+
+SPECIFICATION
+1. Push‐button interface, playback can be edge or level activated
+2.Automatic power‐down mode
+3.On‐chip 8Ω speaker driver
+4. Signal 3.3V Power Supply
+5.Can be controlled both manually or by MCU
+6.Record up to around 10 seconds of audio
+7. Dimensions: 37 x 54 mm
+
+
+ARDUINO_UNO is used to give power supply to the module.
+1.Connect Vcc to 3.3V on Arduino Board.
+2.Connect GND to GND on Arduino Board.
+3.Connect power supply to Arduino Board.
+
+
+Record Operate Guide
+1. Push REC button then the RECLED will light and keep push until record end.
+2. Release the REC button
