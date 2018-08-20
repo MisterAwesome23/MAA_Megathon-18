@@ -20,3 +20,6 @@ ARDUINO_UNO is used to give power supply to the module.
 Record Operate Guide
 1. Push REC button then the RECLED will light and keep push until record end.
 2. Release the REC button
+
+
+//Source: https://www.instructables.com/id/HOW-TO-USE-ISD1820-VOICE-RECORDER-AND-PLAYER/
